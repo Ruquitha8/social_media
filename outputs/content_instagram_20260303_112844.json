@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-03T11:28:17.088902",
+  "platform": "instagram",
+  "product": "HydroTrack",
+  "tone": "promotional",
+  "content_type": "product_highlight",
+  "caption": "STAY HYDRATED ON-THE-GO WITH HYDROTRACK! Say goodbye to dehydration and hello to a healthier you. Our innovative mobile app tracks your daily water intake, sending reminders and notifications to keep you on track.",
+  "hashtags": [
+    "HydroTrack",
+    "StayHydrated",
+    "MobileApp",
+    "FitnessMotivation",
+    "HealthAndWellness"
+  ],
+  "ad_copy": "Get the app now and receive a FREE 30-day hydration challenge! Download link in bio.",
+  "description": "HydroTrack is a revolutionary mobile app designed to help you achieve your hydration goals. With a user-friendly interface and personalized reminders, you'll never forget to drink enough water throughout the day. Receive real-time tracking, analytics, and insights to optimize your hydration routine. Plus, connect with friends and join hydration challenges to stay motivated and engaged. Say goodbye to dehydration and hello to a healthier, happier you with HydroTrack!",
+  "image_paths": [
+    "outputs/HydroTrack_20260303_112844_1.png",
+    "outputs/HydroTrack_20260303_112844_2.png"
+  ],
+  "image_prompt": "tracks daily water intake using a mobile app - promotional tone"
+}

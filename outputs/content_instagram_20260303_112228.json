@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-03T11:22:11.930343",
+  "platform": "instagram",
+  "product": "GlowSkin Serum",
+  "tone": "professional",
+  "content_type": "product_highlight",
+  "caption": "Introducing GlowSkin Serum - your pathway to radiant, acne-free skin. Clinically proven to reduce acne and reveal a natural glow.",
+  "hashtags": [
+    "glowingskin",
+    "acnefree",
+    "skincareproducts",
+    "naturalglow",
+    "skincare",
+    "beauty",
+    "glowingserum"
+  ],
+  "ad_copy": "Say goodbye to acne and hello to radiant skin with GlowSkin Serum. Get yours now!",
+  "description": "Unlock the secret to flawless, glowing skin with GlowSkin Serum. This powerful serum is clinically proven to reduce acne and leave your skin looking brighter and more even-toned. Its unique formula penetrates deep into the skin to target the root causes of acne, leaving you with a natural, healthy-looking glow. Perfect for all skin types, GlowSkin Serum is a game-changing addition to any skincare routine.",
+  "image_paths": [
+    "outputs/GlowSkin_Serum_20260303_112228_1.png"
+  ],
+  "image_prompt": "reduces acne and gives natural glow - professional tone"
+}
